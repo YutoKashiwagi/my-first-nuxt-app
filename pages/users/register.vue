@@ -1,5 +1,5 @@
 <template>
   <div>
-    <p>/users/index.vue</p>
+    <p>/users/register.vue</p>
   </div>
 </template>
